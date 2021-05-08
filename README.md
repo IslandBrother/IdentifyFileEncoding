@@ -1,5 +1,3 @@
 # IdentifyFileEncoding
-|school | student | age |
-|---    |---      | --- |
-|hi     |jihyun   | 30  |
-|roo    |dogi     |34   |
+
+2021년 다시 진행해보기
